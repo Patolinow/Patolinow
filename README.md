@@ -4,9 +4,10 @@
 
 ---
 
-Olá! meu nome é Fábio e sou um estudante de Engenharia de Software na UNOPAR, fiz curso técnico integrado ao ensino médio na instituição IFBaiano Campus Governador Mangabeira. Eu desenvolvo soluções em React.js utilizando Typescript, além disso também utilizo CSS Modules, SASS ou Tailwind para estilização dos projetos e atualmente estou aprimorando minhas habilidades em Next.js, aprendendo a utilizar SSR, SSG e ISR de forma Eficiente.
+Olá! meu nome é Fábio e sou um estudante de Engenharia de Software na UNOPAR, fiz curso técnico integrado ao ensino médio na instituição IFBaiano Campus Governador Mangabeira. Eu desenvolvo soluções em React utilizando frameworks como NextJS e linguagens somo Typescript e Javascript. Utilizo Redux para controle de estado global, Styled Components, SASS ou Tailwind para estilização dos projetos e atualmente estou aprendendo sobre testes unitários utilizando Vitest e Jest em conjunto com React Testing Library para os testes. 
 
-Todo meu progresso pode ser visualizado através do meu repositório público de estudos, estou constantemente adquirindo novos conhecimentos pois entendo que em um mercado aquecido como o de programação, aqueles que acreditam já terem conhecimento o suficiente, são os que estagnam e ficam pra trás na maratona que é a área de tecnologia.
+
+Todo meu progresso pode ser visualizado através do meu repositório público de estudos, estou constantemente adquirindo novos conhecimentos porque entendo que em um mercado aquecido como o de tecnologia, sempre estão surgindo novas tecnologias com potencial de tornar as tecnologias que utilizamos obsoletas.
 
 ### 🎓 Formação
 
