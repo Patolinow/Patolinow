@@ -29,7 +29,7 @@ Todo meu progresso pode ser visualizado através do meu repositório público de
 
 ---
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=patolinow&title_color=FCCE30&bg_color=1F233E&border_color=4C3AA1&text_color=FDD54A&layout=compact&show_icons=true&locale=pt-BR&langs_count=10&hide=Ejs,Nix">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=patolinow&title_color=f0ac1d&bg_color=2a2a2a&border_color=474747&text_color=e5b245&layout=compact&show_icons=true&locale=pt-BR&langs_count=10&hide=Ejs,Nix,CMake,C%2B%2B">
 
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
