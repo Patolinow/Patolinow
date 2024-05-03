@@ -4,10 +4,11 @@
 
 ---
 
-Olá! meu nome é Fábio e sou um estudante de Engenharia de Software na UNOPAR, fiz curso técnico integrado ao ensino médio na instituição IFBaiano Campus Governador Mangabeira. Eu desenvolvo soluções em React utilizando frameworks como NextJS e linguagens somo Typescript e Javascript. Utilizo Redux para controle de estado global, Styled Components, SASS ou Tailwind para estilização dos projetos e atualmente estou aprendendo sobre testes unitários utilizando Vitest e Jest em conjunto com React Testing Library para os testes. 
+Olá! Meu nome é Fábio, sou um Desenvolvedor Frontend voluntário na ONG Em Ação. Atuo no Desenvolvimento de novas Interfaces, realizo a implementação destas interfaces e de novas features, além de fazer a manutenção do código pré-existente. Estou cursando de Engenharia de Software pela UNOPAR e tenho formação técnica de Informática no IF Campus Governador Mangabeira. 
 
+Desenvolvo interfaces através do Software Figma, tenho proficiência em Angular, React e NextJS, utilizando linguagens como Typescript e Javascript. Utilizo Redux para controle de estado global, Styled Components, SASS ou Tailwind para estilização dos projetos, também utilizo Vitest ou Jest em conjunto com React Testing Library para testes unitários.
 
-Todo meu progresso pode ser visualizado através do meu repositório público de estudos, estou constantemente adquirindo novos conhecimentos porque entendo que em um mercado aquecido como o de tecnologia, sempre estão surgindo novas tecnologias com potencial de tornar as tecnologias que utilizamos obsoletas.
+Tenho uma imensa paixão por aprender novas tecnologias e frameworks, estou constantemente buscando novas oportunidades para me aprimorar com o objetivo de fazer entregas eficientes que supram as expectativas de todos.
 
 ### 🎓 Formação
 
